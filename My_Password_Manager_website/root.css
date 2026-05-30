@@ -1,0 +1,18 @@
+/* By mun4ik0 */
+:root {
+  --mainColor: #161b22; /*Цвет main для темной темы */
+  --textColor: #f0f6ff; /*Цвет текста для темной темы */
+  --borderColor: #00d9ff; /*Цвет border main */
+  --footerColor: #21262d; /*Цвет footer для светлой темы */
+  --accentColor: #4cc6db; /*Цвет body */
+  --accentColor2: #7c3aed; /*Цвет border анимированного div (в конце анимации)*/
+  --image: url(images/moon.png); /*Значок смены темы (луна)*/
+  --imageSun: url(images/sun.png); /*Значок смены темы (солнце) */
+  --animColor: #0f3a4a; /*Фоновый цвет анимации div */
+  --animborderColor: #00d9ff; /*Цвет border анимированного div*/
+  --animhColor: #a8d8ea; /*Цвет текста h1, h3 внутри анимированного div */
+  --lightMain: #ffffffd5; /*Цвет main для светлой темы */
+  --lightHeader: #eaf4f8; /*Цвет header для светлой темы */
+  --lightFooter: #e2ebf4; /*Цвет footer для светлой темы */
+  --lightText: #0c1a26; /*Цвет текста для светлой темы */
+}
