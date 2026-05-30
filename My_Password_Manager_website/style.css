@@ -57,7 +57,7 @@ main {
   animation-name: anim1;
   animation-duration: 10s;
   background-color: var(--animColor);
-  animation-iteration-count: infinite;
+  animation-iteration-count: 1;
   width: 40%;
   height: 30%;
   display: flex;
